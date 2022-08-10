@@ -1,6 +1,6 @@
 async function main(args) {
 
-  const name = 'Sharkooo';
+  const name = 'Sharkinator';
   const type = 'dinosaur';
   const url = `https://functionschallenge.digitalocean.com/api/sammy?name=${name}&type=${type}`;
 
